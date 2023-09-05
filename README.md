@@ -1,3 +1,3 @@
-# bscontrollable
+# Beat Saber Controllable
 
-Modding Pink's controllable, without paywalls!
+Modding Pink's controllable mod for Beat Saber, without the paywalls!
